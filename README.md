@@ -33,6 +33,17 @@ The code of log recovery is stored in ./log_recovery/.
 
 The a series of models are stored in ./eval/base_models.py. 
 
+## Evaluation
+
+The results of space bias experiments.
+
+![avatar](./eval/bias/space.png)
+
+The results of time bias experiments.
+
+![avatar](./eval/bias/time.png)
+
+
 ## Instances
 
 Some command graphs for malware instances
